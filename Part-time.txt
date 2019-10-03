@@ -1,0 +1,6 @@
+1 6 0.5 Nguyen An
+2 2 0.5 Tran Nhi
+3 0 0.0 Nguyen Tran Nhu Phuong
+4 0 0.0 Nguyen Ngoc Nhi
+5 0 0.0 Nguyen Ngoc Thao
+6 0 0.0 Nguyen Bao Ngoc

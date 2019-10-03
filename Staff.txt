@@ -1,0 +1,6 @@
+101 0 0.0 Ngoc Ty
+102 4 1.0 Nguyen Huy Tinh
+103 0 0.0 Tran Nguyen Chi Nhan
+104 0 0.0 Nguyen Duy Khang
+105 0 0.0 Nguyen Nhat
+106 0 0.0 Nguyen Hoang Lam
